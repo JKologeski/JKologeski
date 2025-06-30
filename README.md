@@ -53,3 +53,4 @@ Estudando e navegando por:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu)
+![7 Programming Languages in 2022 You’ve Never Heard Of](https://github.com/user-attachments/assets/021aad1e-e776-43ac-9533-f3b1b5307d93)
