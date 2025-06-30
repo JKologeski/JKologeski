@@ -8,7 +8,7 @@
 
 ## 🛰️ Sobre mim
 
-👋 Olá! Sou **Jyan**, um explorador de dados que atua como **Engenheiro de Dados**.  
+👋 Olá! Sou **Jyan Kologeski**, um explorador de dados que atua como **Engenheiro de Dados**.  
 Atualmente trabalho com:
 
 - 🐍 Python (automação, ETL, scraping)
