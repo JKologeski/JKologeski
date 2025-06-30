@@ -21,6 +21,8 @@ Estudando e navegando por:
 - 🛰️ Apache Airflow
 - 🌐 NoSQL e arquiteturas distribuídas
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKologeski&show_icons=true&theme=gotham)
+
 ---
 
 ## 🚀 Tecnologias & Ferramentas
